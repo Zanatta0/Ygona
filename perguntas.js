@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Cristiano Ronaldo',
+    'Quantos filhos ele tem?',
+    'CR7 hoje tem 5 filhos'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Flamengo',
+    'Quem é o maior 10 do time?',
+    'O maior 10 é o zico'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Flamengo',
+    'Quem é o conhecido como imperador?',
+    'O Adriano Imperador'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Flamengo',
+    'O maior rival europeu do Flamengo é quem?',
+    'Liverpool'
 )
